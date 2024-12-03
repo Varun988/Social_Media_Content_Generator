@@ -1,3 +1,5 @@
+I have used SAP BTP to develop this.
+
 Structure
 social_media_content_generator/
 ├── agents/
